@@ -1,0 +1,7 @@
+.pio
+.idea/
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.DS_Store
+dependencies.lock
+managed_components/
